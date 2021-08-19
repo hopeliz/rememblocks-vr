@@ -1,4 +1,4 @@
-# rememblocks-vr
+# Rememblocks VR
 
 ## About
 *Rememblocks VR* was a virtual reality game I made for [the Digital Sideshow](http://thedigitalsideshow.com/) that ran March 6-7, 2020, at [Peebles Public Library](https://adamscolibrary.org/locations/) in Adams County, Ohio.
